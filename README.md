@@ -11,3 +11,6 @@ Some classmates have provided the CompTIA CySA+ and also the Security Plus docum
 ## Roadmap
 
 I will keep updating this as I learn more and I will share anything that I find helpful
+
+
+https://2024perscholasstudygroup.netlify.app/
