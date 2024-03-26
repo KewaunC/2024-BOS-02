@@ -26,7 +26,9 @@
   a{
     color: black;  
   }
-  
+    h2{
+    font-size: 7em;
+  }
   .gridContainer {
     display: flex;
     flex-wrap: wrap;
