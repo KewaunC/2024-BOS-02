@@ -1,3 +1,12 @@
-document.getElementById('motivation').addEventListener('click', function() {
-    document.getElementById('videoContainer').classList.toggle('open');
+// JavaScript for hamburger menu
+// script.js
+
+document.addEventListener("DOMContentLoaded", function() {
+  const hamburger = document.getElementById("hamburger");
+  const navLinks = document.getElementById("nav-links");
+
+  hamburger.addEventListener("click", function() {
+      navLinks.classList.toggle("active");
   });
+});
+
